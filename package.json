@@ -1,0 +1,23 @@
+{
+  "name": "context-continuation",
+  "version": "0.0.0",
+  "description": "Pure JS implementation of `continuify`",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap tests/**/*.tap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatalieWolfe/node-context-continuation.git"
+  },
+  "author": "Natalie Wolfe <natalie@lifewanted.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NatalieWolfe/node-context-continuation/issues"
+  },
+  "homepage": "https://github.com/NatalieWolfe/node-context-continuation#readme",
+  "devDependencies": {
+    "eslint": "^5.7.0",
+    "tap": "^12.0.1"
+  }
+}
